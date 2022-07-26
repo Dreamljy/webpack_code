@@ -14,7 +14,7 @@
 
 ## 🌐 地址
 
-- [http://xxpromise.gitee.io/webpack5-docs](http://xxpromise.gitee.io/webpack5-docs)
+- [https://github.com/Dreamljy/webpack_code](https://github.com/Dreamljy/webpack_code)
 
 ## 📦️ 启动方式
 
